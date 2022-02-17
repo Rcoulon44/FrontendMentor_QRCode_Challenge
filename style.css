@@ -1,0 +1,61 @@
+/* Impot google font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+/* general */
+*{
+  box-sizing: border-box;
+}
+
+body{
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  font-family: 'Outfit', sans-serif;
+}
+
+/* Qr code card */
+.cardContainer{
+  width: 330px;
+  height: auto;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 30px;
+  text-align: center;
+}
+
+.qrCodeImg{
+  display: block;
+  width: 300px;
+  height: auto;
+  margin: 15px auto;
+  border-radius: 15px;
+}
+
+h2{
+  font-size: 20px;
+  font-weight: 700;
+  padding: 0px 40px;
+}
+
+p{
+  font-size: 15px;
+  font-weight: 400;
+  padding: 0px 40px;
+  margin-bottom: 30px;
+  color: hsl(220, 15%, 55%);
+}
+
+
+/* Signature */
+.attribution{
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  z-index: -1;
+}
