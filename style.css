@@ -16,7 +16,13 @@ body{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative;
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   font-family: 'Outfit', sans-serif;
 }
 
@@ -27,6 +33,7 @@ body{
   background-color: hsl(0, 0%, 100%);
   border-radius: 30px;
   text-align: center;
+  box-shadow: 5px 15px 30px hsl(220, 15%, 55%);
 }
 
 .qrCodeImg{
@@ -38,9 +45,9 @@ body{
 }
 
 h2{
-  font-size: 20px;
+  font-size: 25px;
   font-weight: 700;
-  padding: 0px 40px;
+  padding: 0px 20px;
 }
 
 p{
@@ -52,9 +59,8 @@ p{
 }
 
 /* Signature */
+
 .attribution{
-  position: absolute;
-  right: 20px;
-  bottom: 20px;
-  z-index: -1;
+  width: 180px;
+  margin: 75px auto;
 }

@@ -10,8 +10,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -34,13 +32,12 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Position
 - Flexbox
 
 ### What I learned
 
 It's my fisrt challenge on FrontEnd Mentor.
-I learned basic css property (border radius, width, margin, padding), position for the signature and flexbox.
+I learned basic css property (border radius, width, margin, padding) and flexbox.
 
 ## Author
 
