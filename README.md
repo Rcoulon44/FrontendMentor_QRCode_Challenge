@@ -44,5 +44,5 @@ I learned basic css property (border radius, width, margin, padding), position f
 
 ## Author
 
-- Website - [Romain COULON](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Romain COULON](https://github.com/Rcoulon44)
+- Frontend Mentor - [@Rcoulon44](https://www.frontendmentor.io/profile/Rcoulon44)
