@@ -12,13 +12,11 @@ body{
   margin: 0;
   padding: 0;
   background-color: hsl(212, 45%, 89%);
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 main{
+  width: 100%;
+  height: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -62,5 +60,8 @@ p{
 
 .attribution{
   width: 180px;
-  margin: 75px auto;
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+  text-align: right;
 }
